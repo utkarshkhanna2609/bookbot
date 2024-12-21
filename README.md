@@ -1,1 +1,1 @@
-Bookbot is a Python CLI app.
+BookBot is my first project!
